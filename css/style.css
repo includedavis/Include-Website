@@ -90,6 +90,7 @@
 ---------------------------------------------------------------- */
 .container .clearfix{
 	margin: auto;
+	float: inherit;
 }
 
 
