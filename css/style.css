@@ -90,6 +90,7 @@
 ---------------------------------------------------------------- */
 #centered-application{
 	margin: auto;
+	float: inherit;
 }
 
 
